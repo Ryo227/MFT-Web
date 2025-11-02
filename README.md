@@ -1,4 +1,4 @@
-# Math-Formalism-Transformations Web(MLT-Web)
+# Math-Formalism-Transformations Web(MFT-Web)
 このWebアプリケーションは、数式の変換メモを保管、見直すためのものである。
 なお、当該アプリケーションはフロントエンド開発用に作成したものである。
 
