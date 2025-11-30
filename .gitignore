@@ -1,0 +1,4 @@
+.history
+.env
+*/*.bkp
+layout/*
